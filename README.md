@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unenumerable
-- 👀 I’m interested in education, computer graphics, and cryptocurrency
+- 👀 I’m interested in education and computer graphics
 - 🌱 I’m currently learning how to teach kids computer science
 - 💞️ I’m looking to collaborate on software for social good
 - 📫 How to reach me ...
